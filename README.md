@@ -1,4 +1,4 @@
-<h1 align=center>🎖️ PROGRAMAÇÃO COMPETITIVA</h1>
+<h1 align=center>🎯 PROGRAMAÇÃO COMPETITIVA</h1>
 
 ### 🎖️ COMPETIÇÕES
 
