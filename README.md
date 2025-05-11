@@ -8,6 +8,7 @@
 | **Maratona de Programação - Etecs** | 2022 | 5° estadual |
 | **Maratona de Programação - Etecs** | 2023 | Campeão estadual |
 | **AWS Grand Prix - TRATON & VW** | 2024 | Vice-campeão mundial |
+| **Interfatecs** | 2025 | 3° da Fatec ZL |
 
 #
 ### 💻 TECNOLOGIAS
